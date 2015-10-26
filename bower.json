@@ -1,7 +1,0 @@
-{
-    "name": "cel-animation",
-    "version": "0.1.0",
-    "main": "_cel-animation.scss",
-    "author": "Heydon Pickering",
-    "ignore": ["*","!_cel-animation.scss"]
-}
