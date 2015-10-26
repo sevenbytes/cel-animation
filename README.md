@@ -6,7 +6,9 @@ A Sass @mixin for creating traditional frame-by-frame animations using "cel" ele
 Either simply download the `_cel-animation.scss` partial from this repo' or use Bower as below:
 
 ```
-bower install --save-dev cel-animation
+git clone git@github.com:sevenbytes/cel-animation.git
+npm install
+gulp
 ```
 
 ## Include in your project
